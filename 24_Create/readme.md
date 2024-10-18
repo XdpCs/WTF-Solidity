@@ -115,7 +115,7 @@ BSC链上的PEOPLE地址: 0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c
 2. 查看`Pair`合约变量
     ![24-4](./img/24-4.png)
     ![24-2](./img/24-2.png)
-4. Debug查看`create`操作码
+3. Debug查看`create`操作码
 
     ![24-3](./img/24-3.png)
 
